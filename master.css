@@ -1,0 +1,22 @@
+
+
+
+/* NAVBAR CUSTOMIZE */
+
+.bg-dark { 
+    background: #000000 !important;
+}
+
+.navbar-dark .navbar-nav .nav-link{
+    color: orange;
+    text-transform: uppercase;
+    font-size: 1.3rem;
+}
+
+.navbar-dark .navbar-nav .active > .nav-link{
+    color: #ac2568 !important;
+}
+
+.navbar-dark .navbar-nav .nav-link:hover{
+    color: #459d43;
+}
